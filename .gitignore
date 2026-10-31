@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# OS
+.DS_Store
+
+# Bind-mounted volumes (runtime data)
+influxdb/data/
+influxdb/config/
+grafana/
+mosquitto/data/
+mosquitto/log/
+
+# Node-RED runtime (flows.json and settings.js stay tracked)
+nodered/node_modules/
+nodered/flows_cred.json
+nodered/.config.*.json*
+nodered/.*.backup
+nodered/.npm/
+nodered/lib/
+
+.vscode/settings.json
