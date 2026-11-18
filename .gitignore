@@ -20,3 +20,4 @@ nodered/.npm/
 nodered/lib/
 
 .vscode/settings.json
+/nodered
