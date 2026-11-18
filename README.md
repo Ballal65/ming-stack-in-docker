@@ -1,7 +1,7 @@
 # ming-stack
 
 Local IoT stack for an ESP32 + DHT22 sensor: **Mosquitto** (MQTT) → **Node-RED** → **InfluxDB** → **Grafana**.
-
+[![Watch the video](https://img.youtube.com/vi/2XcBCLpoUjc/hqdefault.jpg)](https://www.youtube.com/watch?v=2XcBCLpoUjc)
 ## Quick start
 
 ```sh
